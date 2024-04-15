@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.navigation {
+  display: grid;
+  padding: auto;
+}
+
+Link {
+  padding: 100px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
